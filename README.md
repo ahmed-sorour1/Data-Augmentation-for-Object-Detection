@@ -1,14 +1,19 @@
 # Data-Augmentation-for-Object-Detection
 
-This Code is for doing Data Augmentation for Object Detection Task.
 
-It can Handle the bounding boxes for the augmentated image greatly.
+This code performs data augmentation for object detection tasks, handling bounding boxes for the augmented images effectively. The augmentations included are:
 
-You just specifiy folder path for the image, labels and save dir in your drive and everything will work good.
+- Horizontal Flip
+- Vertical Flip
+- Rotation
 
-This code just doing: \n
-**Horizontal Flip** \n
-**Vertical Flip** \n
-**Rotation** \n
+## How to Use
+
+1. **Specify folder paths:**
+   - Image folder path
+   - Labels folder path
+   - Save directory on your drive
+
+2. **Run the code:** The script will process the images and save the augmented versions with adjusted bounding boxes.
 
 Feel free to edit the code based on your needs.
