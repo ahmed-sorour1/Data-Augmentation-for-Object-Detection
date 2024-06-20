@@ -6,9 +6,9 @@ It can Handle the bounding boxes for the augmentated image greatly.
 
 You just specifiy folder path for the image, labels and save dir in your drive and everything will work good.
 
-This code just doing: 
-**Horizontal Flip**
-**Vertical Flip**
-**Rotation**
+This code just doing: \n
+**Horizontal Flip** \n
+**Vertical Flip** \n
+**Rotation** \n
 
 Feel free to edit the code based on your needs.
